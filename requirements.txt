@@ -11,9 +11,14 @@ networkx
 ollama
 openai
 oracledb
+pymilvus
+pymongo
+pymysql
 pyvis
-tenacity
 # lmdeploy[all]
+sqlalchemy
+tenacity
+
 
 # LLM packages
 tiktoken

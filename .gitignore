@@ -21,3 +21,6 @@ main.textClipping
 LightRAG/
 *.log
 .DS_Store
+gui/
+*.log
+
